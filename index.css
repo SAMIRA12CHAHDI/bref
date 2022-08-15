@@ -1,0 +1,33 @@
+
+
+nav{background-image: url("covid.jpg") 
+}
+
+
+ #info{
+    background-color: yellow;
+    color: blue;
+    font-style:initial;
+    text-align: center;
+
+}
+
+h1{
+    color: black;
+    font-size: larger;
+    font-style: oblique;
+}
+section{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        text-align: center;
+
+      
+}
+h2{
+    text-align: center;
+    color: blue;
+    font-size: medium;
+    font-style: oblique
+    
+    
